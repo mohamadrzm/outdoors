@@ -1,7 +1,7 @@
 <p align="center">
   <a href="" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img width="160" height="160" src="https://github.com/mohamadrzm/outdoors/blob/main/desktop.png">
+      <img src="https://github.com/mohamadrzm/outdoors/blob/main/desktop.png">
     </picture>
   </a>
 </p>
